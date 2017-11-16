@@ -1,0 +1,53 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+hr {
+	border: none;
+	height: 1px;
+	color: #333;
+	background-color: #333;
+	
+}
+.container {
+	width: 90%
+
+	}
+.navbar {
+  margin-bottom: 20px;
+}
+
+.box {
+	border: 1px solid red;
+}
+
+.home-headline {
+	font-family: 'Georgia';
+	font-size: 24px;
+	color: #fff;
+	margin-left: 550px;
+	
+	
+}
+
+.home-headline span{
+	background-color: #231F20;
+	padding: 5px 22px;
+	
+}
+
+.section-headline {
+	font-family: 'Georgia';
+	font-size: 24px;
+	color: #fff;
+	margin-left: 550px;
+	
+	
+}
+
+.section-headline span{
+	background-color: #231F20;
+	padding: 5px 22px;
+	
+}
